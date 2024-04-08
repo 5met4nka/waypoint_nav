@@ -8,7 +8,6 @@ project(husky_navigation)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  hector_mapping_nav
   husky_custom_description
   move_base
   outdoor_waypoint_nav
